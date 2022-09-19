@@ -1,0 +1,18 @@
+video {
+  object-fit: cover;
+}
+
+.outer::-webkit-scrollbar {
+  display: none;
+}
+body {
+  color: #252525;
+  -ms-overflow-style: none;
+}
+html,
+body {
+  height: 100%;
+}
+::-webkit-scrollbar {
+  display: none;
+}
